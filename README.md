@@ -1,4 +1,4 @@
-# tutorial for Django
+# Tutorial for Django
 https://docs.djangoproject.com/en/1.10/intro/tutorial01/
 
 # Git Commands
@@ -13,6 +13,4 @@ git commit -m "message"
 
 (push changes to git)
 git push
-
-# (handle any merge conflicts)
 
